@@ -14,9 +14,9 @@ AutoESP uses a HTTP server for communication with the device.
 
 Daily clock syncing with  an internet connected is recommended for alarm accuracy. Or better yet, it may prove more beneficial to have a internet connected  device connect to the MCU via WiFi and HTTP daily to toggle states.
 ```
-![alt text](![image](https://d33wubrfki0l68.cloudfront.net/548413433dfa9eed9b0b34bf82a1206f644d65de/6806c/post/sonoff-s31-now-serious/images/p1240877se.jpg)
+![image](https://github.com/user-attachments/assets/74255b8d-d16c-49b4-9819-d79ddbdae7ca)
 ```
-Credits to Tinkerman for the image.
+Credits to Tinkerman for the image. (tinkerman.cat)
 
 ### Building from source:
 After configuring build environment according to Espressif specifications.
